@@ -3,9 +3,9 @@
 
 ## this is how to use the module:
 
-# Step1:
+# Step1: Install module using pip
 ```bash
-Install module using pip install passgenr
+pip install passgenr
 ```
 # Step2: create a file a follow this way to run,
 ```python
